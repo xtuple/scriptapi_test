@@ -1,0 +1,49 @@
+<package id        = "scriptapi_test"
+         name      = "scriptapi_test"
+         version   = "0.0.1"
+         developer = "xTuple"
+         descrip   = "xTuple ERP desktop client scripting API tests"
+         >
+
+  <loadappscript name = "addressClusterTest"    file = "foundation-database/scriptapi_test/tables/pkgscript/addressClusterTest.js" />
+  <loadappscript name = "alarmsTest"            file = "foundation-database/scriptapi_test/tables/pkgscript/alarmsTest.js" />
+  <loadappscript name = "clineEditTest"         file = "foundation-database/scriptapi_test/tables/pkgscript/clineEditTest.js" />
+  <loadappscript name = "commentsTest"          file = "foundation-database/scriptapi_test/tables/pkgscript/commentsTest.js" />
+  <loadappscript name = "contactWidgetTest"     file = "foundation-database/scriptapi_test/tables/pkgscript/contactWidgetTest.js" />
+  <loadappscript name = "crmacctClusterTest"    file = "foundation-database/scriptapi_test/tables/pkgscript/crmacctClusterTest.js" />
+  <loadappscript name = "initMenu"              file = "foundation-database/scriptapi_test/tables/pkgscript/initMenu.js" />
+  <loadappscript name = "currClusterTest"       file = "foundation-database/scriptapi_test/tables/pkgscript/currClusterTest.js" />
+  <loadappscript name = "documentsTest"         file = "foundation-database/scriptapi_test/tables/pkgscript/documentsTest.js" />
+  <loadappscript name = "glClusterTest"         file = "foundation-database/scriptapi_test/tables/pkgscript/glClusterTest.js" />
+  <loadappscript name = "itemClusterTest"       file = "foundation-database/scriptapi_test/tables/pkgscript/itemClusterTest.js" />
+  <loadappscript name = "orderClusterTest"      file = "foundation-database/scriptapi_test/tables/pkgscript/orderClusterTest.js" />
+  <loadappscript name = "parameterGroupTest"    file = "foundation-database/scriptapi_test/tables/pkgscript/parameterGroupTest.js" />
+  <loadappscript name = "projectClusterTest"    file = "foundation-database/scriptapi_test/tables/pkgscript/projectClusterTest.js" />
+  <loadappscript name = "raClusterTest"         file = "foundation-database/scriptapi_test/tables/pkgscript/raClusterTest.js" />
+  <loadappscript name = "revisionClusterTest"   file = "foundation-database/scriptapi_test/tables/pkgscript/revisionClusterTest.js" />
+  <loadappscript name = "shipmentClusterTest"   file = "foundation-database/scriptapi_test/tables/pkgscript/shipmentClusterTest.js" />
+  <loadappscript name = "vendorGroupTest"       file = "foundation-database/scriptapi_test/tables/pkgscript/vendorGroupTest.js" />
+  <loadappscript name = "womatlClusterTest"     file = "foundation-database/scriptapi_test/tables/pkgscript/womatlClusterTest.js" />
+  <loadappscript name = "xDateEditTest"         file = "foundation-database/scriptapi_test/tables/pkgscript/xDateEditTest.js" />
+
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/addressClusterTest.ui"    />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/alarmsTest.ui"            />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/clineEditTest.ui"         />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/commentsTest.ui"          />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/contactWidgetTest.ui"     />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/crmacctClusterTest.ui"    />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/currClusterTest.ui"       />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/documentsTest.ui"         />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/glClusterTest.ui"         />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/itemClusterTest.ui"       />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/orderClusterTest.ui"      />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/parameterGroupTest.ui"    />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/projectClusterTest.ui"    />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/raClusterTest.ui"         />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/revisionClusterTest.ui"   />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/shipmentClusterTest.ui"   />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/vendorGroupTest.ui"       />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/womatlClusterTest.ui"  />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/xDateEditTest.ui"         />
+
+</package>
