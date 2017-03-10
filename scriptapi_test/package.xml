@@ -25,6 +25,7 @@
   <loadappscript name = "vendorGroupTest"       file = "foundation-database/scriptapi_test/tables/pkgscript/vendorGroupTest.js" />
   <loadappscript name = "womatlClusterTest"     file = "foundation-database/scriptapi_test/tables/pkgscript/womatlClusterTest.js" />
   <loadappscript name = "xDateEditTest"         file = "foundation-database/scriptapi_test/tables/pkgscript/xDateEditTest.js" />
+  <loadappscript name = "xDataWidgetMapperTest" file = "foundation-database/scriptapi_test/tables/pkgscript/xDataWidgetMapperTest.js" />
 
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/addressClusterTest.ui"    />
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/alarmsTest.ui"            />
@@ -45,5 +46,6 @@
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/vendorGroupTest.ui"       />
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/womatlClusterTest.ui"  />
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/xDateEditTest.ui"         />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/xDataWidgetMapperTest.ui" />
 
 </package>
