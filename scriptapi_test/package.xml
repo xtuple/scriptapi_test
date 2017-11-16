@@ -27,6 +27,17 @@
   <loadappscript name = "xDateEditTest"         file = "foundation-database/scriptapi_test/tables/pkgscript/xDateEditTest.js" />
   <loadappscript name = "xDataWidgetMapperTest" file = "foundation-database/scriptapi_test/tables/pkgscript/xDataWidgetMapperTest.js" />
 
+  <loadappscript name = "AddressCluster" file = "foundation-database/scriptapi_test/tables/pkgscript/AddressCluster.js" />
+  <loadappscript name = "AddressList" file = "foundation-database/scriptapi_test/tables/pkgscript/AddressList.js" />
+  <loadappscript name = "AddressSearch" file = "foundation-database/scriptapi_test/tables/pkgscript/AddressSearch.js" />
+  <loadappscript name = "WarehouseGroup" file = "foundation-database/scriptapi_test/tables/pkgscript/WarehouseGroup.js" />
+  <loadappscript name = "XDocCopySetter" file = "foundation-database/scriptapi_test/tables/pkgscript/XDocCopySetter.js" />
+  <loadappscript name = "alarmMaint" file = "foundation-database/scriptapi_test/tables/pkgscript/alarmMaint.js" />
+  <loadappscript name = "VirtualCluster" file = "foundation-database/scriptapi_test/tables/pkgscript/VirtualCluster.js" />
+  <loadappscript name = "VirtualInfo" file = "foundation-database/scriptapi_test/tables/pkgscript/VirtualInfo.js" />
+  <loadappscript name = "VirtualList" file = "foundation-database/scriptapi_test/tables/pkgscript/VirtualList.js" />
+  <loadappscript name = "VirtualSearch" file = "foundation-database/scriptapi_test/tables/pkgscript/VirtualSearch.js" />
+
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/addressClusterTest.ui"    />
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/alarmsTest.ui"            />
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/clineEditTest.ui"         />
