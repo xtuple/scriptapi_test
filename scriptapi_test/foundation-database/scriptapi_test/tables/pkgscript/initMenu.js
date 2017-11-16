@@ -122,6 +122,11 @@ var widgetTestDesc = [ { label: qsTranslate("menuTest", "Address Cluster"),
                          name:  "xSqlTableModel",
                          slot:  sXSqlTableModelTest
                        },
+                       { label: qsTranslate("menuTest", "QMimeDatabase"),
+                         priv:  undefined,
+                         name:  "QMimeDatabase",
+                         slot:  QMimeDatabaseTest
+                       }
                       ];
 
 widgetTestDesc.forEach(function (actionDesc) {
@@ -216,4 +221,8 @@ function sXDataWidgetMapperTest() {
 
 function sXSqlTableModelTest() {
   toolbox.openWindow("xSqlTableModelTest");
+}
+
+function QMimeDatabaseTest() {
+  toolbox.openWindow("qmimedatabase");
 }
