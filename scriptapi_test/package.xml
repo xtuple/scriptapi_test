@@ -37,6 +37,7 @@
   <loadappscript name = "VirtualInfo" file = "foundation-database/scriptapi_test/tables/pkgscript/VirtualInfo.js" />
   <loadappscript name = "VirtualList" file = "foundation-database/scriptapi_test/tables/pkgscript/VirtualList.js" />
   <loadappscript name = "VirtualSearch" file = "foundation-database/scriptapi_test/tables/pkgscript/VirtualSearch.js" />
+  <loadappscript name = "qmimedatabase" file = "foundation-database/scriptapi_test/tables/pkgscript/qmimedatabase.js" />
 
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/addressClusterTest.ui"    />
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/alarmsTest.ui"            />
@@ -58,5 +59,6 @@
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/womatlClusterTest.ui"  />
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/xDateEditTest.ui"         />
   <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/xDataWidgetMapperTest.ui" />
+  <loadappui file = "foundation-database/scriptapi_test/tables/pkguiform/qmimedatabase.ui" />
 
 </package>
